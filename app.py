@@ -22,7 +22,7 @@ avocado["SalesVolume"] = (
     + avocado["TypeG"]
 )
 
-app.title = "Avocado Analytics: Understand Your Avocados!"
+app.title = "Avocado Analytics"
 
 app.layout = html.Div(
     children=[
